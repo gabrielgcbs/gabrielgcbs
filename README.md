@@ -1,6 +1,6 @@
 ## Hi there! I'm Gabriel Caldas!  👨‍💻
 
-👨‍💻 *Pursuing Master of IT - AI at [UFRN](https://ufrn.edu.br)* 
+👨‍💻 *Pursuing Master of IT - AI at [UFRN](https://ufrn.br)*   
 👨‍🎓 *BsC. of Science and Technology at [UFERSA](https://ufersa.edu.br)*  
 👨‍💻 *Computer Engineering student at [UFERSA](https://ufersa.edu.br)*  
 💻 ***Data Scientist** at [Falconi](https://landing.falconi.com/)*  
