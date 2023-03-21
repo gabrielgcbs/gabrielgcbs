@@ -14,15 +14,15 @@
 
 me = {
   'name': 'Gabriel Caldas',
-  'roles': ['Python Developer', 'Data Analyst'],
-  'languages': ['python', 'javascript', 'HTML', 'CSS'],
+  'roles': ['Python Developer', 'Data Scientist', 'Indie GameDev'],
+  'languages': ['python', 'C#', 'javascript', 'HTML'],
   'knowledges': [
-      'Azure DevOps', 
-      'scrum', 
-      'optimization',
+      'Agile',
+      'Unity',
       {
-        'Machine Learning': ['classification', 'prediction']
-      }
+        'Machine Learning': ['classification', 'prediction', 'clustering'],
+      },
+      'Deep Reinforcement Learning',
     ]
 }
     
