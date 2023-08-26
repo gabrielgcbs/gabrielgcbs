@@ -20,9 +20,14 @@ me = {
       'Agile',
       'Unity',
       {
-        'Machine Learning': ['classification', 'prediction', 'clustering'],
+        'Machine Learning': [
+            'classification',
+            'regression',
+            'demand forecasting',
+            'clustering',
+            'reinforcement learning',
+        ],
       },
-      'Deep Reinforcement Learning',
     ]
 }
     
