@@ -3,7 +3,7 @@
 👨‍💻 *Master of IT - AI at [UFRN](https://ufrn.br)*   
 👨‍🎓 *BsC. in Science and Technology at [UFERSA](https://ufersa.edu.br)*  
 👨‍💻 *Computer Engineer at [UFERSA](https://ufersa.edu.br)*  
-💻 *Data Scientist at [Falconi](https://landing.falconi.com/)*  
+💻 *Data Scientist*  
 
 [![GitHub followers](https://img.shields.io/github/followers/gabrielgcbs?label=Follow&style=social)](https://github.com/gabrielgcbs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/gabriel-caldas-barros/)  
@@ -23,6 +23,7 @@ me = {
       'Kedro',
       'ML Pipelines',
       'GCP',
+      'SageMaker',
       {
         'Machine Learning': [
             'classification',
